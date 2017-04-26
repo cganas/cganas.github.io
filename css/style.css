@@ -152,7 +152,7 @@ header a.path {
 header a.path.title {
     font-weight: bold;
     font-size: 2em;
-    border-bottom: 4px;
+    border-bottom: 2px;
     border-bottom-style: solid;
     border-bottom-color: #aaa;
     padding-bottom: 2px;
