@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fake news on Pwn Press</title>
+    <link>/tags/fake-news/</link>
+    <description>Recent content in Fake news on Pwn Press</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/fake-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Placeholder</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat tincidunt est at maximus. Praesent eget pretium libero, sit amet mollis nibh. Pellentesque ante tortor, dapibus vitae tellus ac, ultrices sollicitudin risus. Nulla consequat, est vitae feugiat cursus, odio leo lacinia lorem, id cursus magna dui vitae nibh. Aliquam eget lorem tincidunt libero ornare sagittis. In facilisis justo sit amet molestie dictum. Cras tristique, enim vel iaculis tempor, metus odio vehicula velit, sed molestie mi sem a quam. Nunc ultricies ultricies porttitor. Curabitur quis lectus luctus, luctus nulla non, fermentum est.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;32&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Maecenas sit amet turpis consectetur, tincidunt lectus at, eleifend lacus. Curabitur nec tellus tortor. Aenean dictum tellus et velit luctus, laoreet lobortis tellus pretium. Praesent tincidunt lectus lorem, ac feugiat lorem gravida ut. Fusce sit amet odio eget lectus vulputate faucibus ut in risus. Nam auctor enim eget felis convallis consequat. Sed varius justo vel lobortis egestas. Maecenas eu ornare risus. Donec sit amet ligula vitae ante aliquam volutpat in id turpis. Mauris elementum augue ut metus elementum, sed euismod odio pretium. Nullam sodales urna egestas dui elementum, quis viverra turpis imperdiet.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum posuere posuere rhoncus. Morbi eget porta justo. Nulla non nisi orci. Curabitur ut faucibus diam. Praesent imperdiet, ipsum sit amet pharetra vehicula, ipsum erat eleifend ante, a blandit mauris est vel quam. Integer ac lorem eget nulla finibus lobortis eget ut mi. Sed id felis et ante venenatis sagittis. Nunc accumsan risus vel enim auctor, eu imperdiet ante finibus.&lt;/p&gt;
+
+&lt;p&gt;Vivamus sed sapien justo. Donec vitae neque non turpis finibus bibendum et ac erat. Ut convallis neque sed diam vehicula placerat. Curabitur eleifend cursus purus, quis faucibus lorem eleifend vel. Phasellus accumsan sem a ullamcorper consectetur. Sed vitae dignissim arcu. Praesent porttitor tortor in rutrum cursus. Phasellus in ante at nulla sollicitudin ultrices ut eget felis. Suspendisse potenti. Phasellus imperdiet feugiat massa, vitae accumsan ante pellentesque in. Nam scelerisque tempus venenatis. Suspendisse quis nisi commodo, consectetur sem sed, rhoncus nisi. Etiam elit orci, vestibulum et ante pulvinar, placerat euismod risus. Sed sollicitudin enim et sagittis fermentum.&lt;/p&gt;
+
+&lt;p&gt;Ut tristique risus eu nisi euismod euismod. Phasellus consectetur ligula vitae lorem sodales, eget placerat nibh auctor. Sed blandit eros nulla. Suspendisse potenti. Vivamus orci neque, pretium id dui a, luctus scelerisque ipsum. Mauris vitae massa id quam mattis eleifend. Vivamus id facilisis nibh. Pellentesque vitae dictum augue. Duis maximus laoreet arcu, vitae efficitur ex porttitor eget. In at orci diam.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
