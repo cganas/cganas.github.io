@@ -1,14 +1,12 @@
 
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,700);
 
 /* Based on Base16 Eighties Colorscheme by Chris Kempson (http://chriskempson.com) */
 
 /* Code */
-pre, code, .category {
-    line-height: 1.2 !important;
+pre {
     padding: 8px !important;
-    font-family: "Source Code Pro", monospace !important;
     overflow-x: auto !important;
 }
 
@@ -58,13 +56,12 @@ body {
 
 article.single section,
 .article-list article {
-  font-family: "Roboto", monospace !important;
   background-color: #f2f0ec;
   color: #2d2d2d;
   padding-left: 128px;
-  padding-left: 4rem;
+  padding-left: 8rem;
   padding-right: 128px;
-  padding-right: 4rem;
+  padding-right: 8rem;
   padding-top: 16px;
   padding-top: 1rem;
   padding-bottom: 16px;
@@ -155,9 +152,9 @@ header a.path {
 header a.path.title {
     font-weight: bold;
     font-size: 2em;
-    border-bottom: 2px;
+    /*border-bottom: 2px;
     border-bottom-style: solid;
-    border-bottom-color: #aaa;
+    border-bottom-color: #aaa;*/
     padding-bottom: 2px;
 }
 
